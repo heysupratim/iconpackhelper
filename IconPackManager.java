@@ -1,5 +1,3 @@
-package iamsupratim.com.ontime.utils;
-
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ApplicationInfo;
